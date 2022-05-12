@@ -1,0 +1,26 @@
+header{
+    background-color: rgb(125, 133, 125);
+}
+
+
+header #Logo h1{
+    color: #2b2d2a;
+}
+main ul{
+    margin-top: 0px;
+}
+main ul li .Highlight{
+    padding-top: 20px;
+    margin-top: 0px;
+}
+main .Highlight span {
+color: #ffffff;    
+}
+main{
+    background-color: #bcb1b1;
+    color: rgb(67, 57, 57);
+}
+#h3 a{
+    color: black;
+    border-color: black;
+}

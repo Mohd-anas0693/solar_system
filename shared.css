@@ -1,0 +1,78 @@
+body{
+      margin:  0px;
+    padding: 0px;
+    
+}
+header{
+    margin:  0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content:space-between ;
+    width: 100%;
+    height: auto;
+    top: 0%;
+    left: 0%;
+    box-sizing: border-box;
+    background-color: #133651 ;
+    
+}
+header img{
+    height: 90px;
+    width: 100px;
+}
+
+#Logo{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+#written{
+    width: 300px;
+}
+header #Logo h1{
+   font-size:  22px;
+   margin-top: 15px;
+   margin-bottom: 5px ;
+  font-family: 'Akshar';
+  font-weight: bold;  
+  color:  #43aaed;
+
+}
+header #Logo p{
+    margin-top: 5px;
+    font-family: 'Fira sans';
+    font-size: 23px;
+    text-transform: uppercase ;
+    font-weight: 300;
+}
+header ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+header ul #list{
+    margin-top: 0px;
+    padding-left: 20px;
+    list-style: none;
+     display: flex;
+     flex-direction: row;
+    justify-content: space-between;
+}
+
+header ul #list li{
+    font-size: 18px;
+    padding: 0px;
+    margin-right: 35px;
+}
+header ul #list #right{
+    margin-right:  50px;
+}
+header ul #list li a{
+    color: white;
+    font-family: 'Fira Sans';
+    font-weight: 600;
+    text-decoration: none;
+}
+

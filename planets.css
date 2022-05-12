@@ -1,0 +1,17 @@
+body{
+     background-color: #3c3c3c;
+}
+header{
+    background-color: #222020;
+}
+main{
+    background-color: #3c3c3c;
+    color: rgb(190, 190, 190);
+}
+main ul li .Highlight{
+    margin-top: 0px;
+}
+#h3 a{
+    color: rgb(190, 190, 190);
+    border-color: rgb(190, 190, 190);
+}
